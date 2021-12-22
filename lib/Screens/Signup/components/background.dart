@@ -21,7 +21,7 @@ class Background extends StatelessWidget {
             top: 0,
             left: 0,
             child: Image.asset(
-              'images/signup_atas.png',
+              "assets/images/signup_atas.png",
               width: size.width * 0.35,
             ),
           ),
@@ -29,7 +29,7 @@ class Background extends StatelessWidget {
             bottom: 0,
             left: 0,
             child: Image.asset(
-              'images/main_bawah.png',
+              "assets/images/main_bawah.png",
               width: size.width * 0.25,
             ),
           ),
